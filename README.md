@@ -1,2 +1,2 @@
 # HiggingFace-LLM-Course
-Notebooks done as part f the course
+Notebooks done as part of the course
